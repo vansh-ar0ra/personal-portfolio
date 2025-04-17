@@ -22,7 +22,7 @@ const Header = () => {
       <div className="absolute -right-14 top-0 bottom-0 sm:hidden z-[1] w-full">
         <div className="h-full w-full relative">
           <img
-            src="/src/assets/images/profile.png"
+            src="/images/profile.png"
             alt="Developer Profile"
             className="object-cover object-object-left h-full w-full opacity-95"
           />
@@ -42,7 +42,7 @@ const Header = () => {
       >
         <div className="relative w-auto h-full">
           <img
-            src="/src/assets/images/profile.png"
+            src="/images/profile.png"
             alt="Developer Profile"
             className="object-cover object-right h-full opacity-90"
           />
